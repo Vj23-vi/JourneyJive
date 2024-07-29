@@ -1,0 +1,67 @@
+.contactuspage{
+    background-color: white;
+    height: 680px;
+    width: 800px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 10px #888888; 
+    box-sizing: border-box;
+    margin-left: 250px;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+}
+
+.contacth1{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.contactlabel{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.cinput{
+    font-size: 20px;
+    margin-bottom: 30px;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+
+.tlabel{
+    margin-right: 400px;
+
+}
+
+.contacttextarea{
+    height: 100px;
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+    margin-bottom: 30px;    
+    /* margin-left: 200px; */
+}
+
+/* .iname{
+    margin-left: 20px;
+}
+
+.iemail{
+    margin-left: 9px;
+} */
+
+
+.paracontact{
+    margin-bottom: 30px;
+}
+
